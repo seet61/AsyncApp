@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncApp</string>
+    <string name="clicksView">Clicks: 0</string>
+    <string name="clicksButton">Click</string>
+    <string name="processButton">Запуск</string>
+    <string name="statusView">Статус</string>
+</resources>
